@@ -1,0 +1,16 @@
+\beamer@slide {fig:spatialGrid}{3}
+\beamer@slide {fig:RectilinearGrid}{4}
+\beamer@slide {fig:HexGrid}{4}
+\beamer@slide {fig:StaggeredColocated}{5}
+\beamer@slide {fig:HexGridStructure}{5}
+\beamer@slide {fig:stab_chart}{6}
+\beamer@slide {fig:GridFunctions}{9}
+\beamer@slide {eq:CourantNumber}{12}
+\beamer@slide {fig:DualRectGrid}{13}
+\beamer@slide {fig:DualHexGrid}{13}
+\beamer@slide {eq:Dispersion}{15}
+\beamer@slide {eq:DispersionFreqDomain}{15}
+\beamer@slide {fig:NumericalDispersion}{17}
+\beamer@slide {fig:NumericalDispersionPolar}{17}
+\beamer@slide {fig:StaggeredColocated}{18}
+\beamer@slide {fig:StaggeredColocated}{19}
